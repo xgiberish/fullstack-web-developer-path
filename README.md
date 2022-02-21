@@ -1,6 +1,4 @@
 # Full Stack Web Developer Path
-This is a guide to learn full-stack web development. It is focused on full-stack JavaScript. It covers all the way from the fundamentals to React and Node. <br>
-The idea behind this repo is, to have a place to log the learning process in an organized way.  <br><br>
 This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/) curriculum
 
 ------
@@ -82,15 +80,3 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 * Learn about CSS conventions like [BEM](http://getbem.com/introduction/), [SMACSS](https://smacss.com/book/).
 * Every week, write a medium post about that week's learnings.
 * Make a habit of coding daily. Try [#100DaysofCode Challenge](http://100daysofcode.com/)
-
-
-## How to use the guide
-* To start using the guide, fork the repo.
-
-## Notes
-* This is a template. You can customize it, add or remove courses as per your choices.
-* If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)
-* If you have any questions, feel free to ask me on twitter : **[Shovan Chatterjee](https://twitter.com/shovan_ch)** [![Twitter Follow](https://img.shields.io/twitter/follow/shovan_ch.svg?style=flat-square&label=Follow%20@shovan_ch)](https://twitter.com/intent/follow?screen_name=shovan_ch)
-
-## Attribution
-Inspired by [p1xt guides](https://github.com/P1xt/p1xt-guides), [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)
